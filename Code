@@ -1,0 +1,10 @@
+<html>
+<script type="text/javascript">
+	//This script will display the user name
+	var names = new Array(10);
+	
+	names[0] = "Gustavo Dias";
+	alert("Hello "+ names[0]);
+</script>
+
+</html>
