@@ -4,6 +4,7 @@
 	var names = new Array(10);
 	
 	names[0] = "Gustavo Dias";
+	names[1] = "James McNeil"; // Added by James
 	alert("Hello "+ names[0]);
 </script>
 
